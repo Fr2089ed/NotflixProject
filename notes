@@ -1,0 +1,5 @@
+SQLite DB with list of ID's + Video Titles + Video Authors
+
+Dynamic homepage with list of links to '/home/<id>'
+
+On 'home/<id>', retrieve id from url and append to YT embed href.
