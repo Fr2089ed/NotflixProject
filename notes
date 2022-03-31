@@ -1,4 +1,4 @@
-SQLite DB with list of ID's + Video Titles + Video Authors
+SQLite DB with list of ID's + Video Titles + Video Authors + Genres + Likes
 
 Dynamic homepage with list of links to '/home/<id>'
 
